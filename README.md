@@ -1,6 +1,8 @@
 # flutterui_05
 
-A new Flutter project.
+Flutter ui 5.
+ 
+ ![alt text](https://github.com/mastermajisosse/flutterui_05/blob/master/assets/preview.png?raw=true)
 
 ## Getting Started
 
